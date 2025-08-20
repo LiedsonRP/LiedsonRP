@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Liedson!  
+# 👋 Olá, me chamo Liedson, mas pode me chamar de Li!  
 -----------------------------------
 **`Desenvolvedor Backend`**
 
